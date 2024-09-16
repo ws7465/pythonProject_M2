@@ -40,11 +40,4 @@ else :
 #
 # конец задачи
 
-# print(first.isdigit())
-#first = int(first)
-#print(type(first))
-#if type(first) not <class int>
-#second
-#third
-
 
