@@ -28,13 +28,13 @@ if third.isdigit() :
     third = int(third)
 else:
     third = 0
-# если все три равны между собой
-if first == second == third :
+# если все три равны между собой и не равны 0
+if first == second == third != 0 :
     print(3)
 # если равны попарно и не равны третьему
-elif  first == second != third or  first == third != second or second == third != first :
+elif  0 != first == second != third or 0 != third == first != second or 0 != second == third != first :
     print(2)
-# если все разные
+# если все разные или не числа
 else :
     print(0)
 #
@@ -42,7 +42,7 @@ else :
 
 # print(first.isdigit())
 #first = int(first)
-print(type(first))
+#print(type(first))
 #if type(first) not <class int>
 #second
 #third
