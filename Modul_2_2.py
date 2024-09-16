@@ -8,18 +8,37 @@
 #   1.	Если все числа равны между собой, то вывести 3
 #   2.	Если хотя бы 2 из 3 введённых чисел равны между собой, то вывести 2
 #   3.	Если равных чисел среди 3-х вообще нет, то вывести 0
-
+#
 print('Введите последовательно три целых числа')
 first = input('Введите  первое число : ')
+# контроль ввода именно числа
 if first.isdigit() :
     first = int(first)
 else:
     first = 0
 second = input('Введите  второе число : ')
+# контроль ввода именно числа
 if second.isdigit() :
-    second = int(first)
+    second = int(second)
 else:
     second = 0
+third = input('Введите  третье число : ')
+# контроль ввода именно числа
+if third.isdigit() :
+    third = int(third)
+else:
+    third = 0
+# если все три равны между собой
+if first == second == third :
+    print(3)
+# если равны попарно и не равны третьему
+elif  first == second != third or  first == third != second or second == third != first :
+    print(2)
+# если все разные
+else :
+    print(0)
+#
+# конец задачи
 
 # print(first.isdigit())
 #first = int(first)
