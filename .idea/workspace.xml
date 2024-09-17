@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf5bbf7f-52ec-4333-96c1-62b4f2725b9f" name="Changes" comment="Module_2_2.py - 20240916 21:12">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modul_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modul_2_2.py" afterDir="false" />
-    </list>
+    <list default="true" id="bf5bbf7f-52ec-4333-96c1-62b4f2725b9f" name="Changes" comment="Module_2_2.py - 20240916 21:31" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +47,8 @@
     "Python.main.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/@tmp/urban-university/для отправки/Modul_2"
   }
 }]]></component>
   <component name="RunManager">
@@ -117,7 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726510390399</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Module_2_2.py - 20240916 21:30">
+      <option name="closed" value="true" />
+      <created>1726511420213</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726511420213</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Module_2_2.py - 20240916 21:31">
+      <option name="closed" value="true" />
+      <created>1726511488771</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726511488771</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,7 +148,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Module_2_2.py - 20240916 20:47" />
     <MESSAGE value="Module_2_2.py - 20240916 21:12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module_2_2.py - 20240916 21:12" />
+    <MESSAGE value="Module_2_2.py - 20240916 21:30" />
+    <MESSAGE value="Module_2_2.py - 20240916 21:31" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module_2_2.py - 20240916 21:31" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
