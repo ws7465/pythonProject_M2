@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf5bbf7f-52ec-4333-96c1-62b4f2725b9f" name="Changes" comment="main.py - 20240918 10:49">
-      <change afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
+    <list default="true" id="bf5bbf7f-52ec-4333-96c1-62b4f2725b9f" name="Changes" comment="main.py - 20240919 13:41">
+      <change afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;ws7465&quot;
-  }
-}</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ws7465/pythonProject_M2.git&quot;,
@@ -44,17 +42,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Modul_2_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/@tmp/urban-university/для отправки/Modul_2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Modul_2_2.executor": "Run",
+    "Python.TEST.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.module_2_3.executor": "Run",
+    "Python.module_2_4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/@tmp/urban-university/для отправки/Modul_2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\@tmp\urban-university\для отправки\Modul_2" />
@@ -188,7 +188,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726645613175</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="main.py - 20240918 10:49">
+      <option name="closed" value="true" />
+      <created>1726742450961</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726742450961</updated>
+    </task>
+    <task id="LOCAL-00013" summary="main.py - 20240919 13:41">
+      <option name="closed" value="true" />
+      <created>1726742513346</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726742513346</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +228,7 @@
     <MESSAGE value="main.py - 20240918 00:47" />
     <MESSAGE value="main.py - 20240918 10:47" />
     <MESSAGE value="main.py - 20240918 10:49" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.py - 20240918 10:49" />
+    <MESSAGE value="main.py - 20240919 13:41" />
+    <option name="LAST_COMMIT_MESSAGE" value="main.py - 20240919 13:41" />
   </component>
 </project>
