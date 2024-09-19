@@ -17,3 +17,5 @@
 #         значения переменной is_prime после проверки
 #         (True - в prime, False - в not_prime).
 #   6.  Выведите списки primes и not_primes на экран(в консоль).
+#
+#
